@@ -16,10 +16,10 @@
 
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
-  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
 
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta property="twitter:domain" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <meta property="twitter:title" content="{{ page.title | escape }}">
+  <meta property="twitter:title" content="{{ page.title | default: site.title | escape }}">
 </head>
