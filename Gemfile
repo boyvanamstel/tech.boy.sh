@@ -25,3 +25,5 @@ end
 
 # Other
 gem "jekyll-assets"
+gem "mini_magick"
+gem "autoprefixer-rails"
