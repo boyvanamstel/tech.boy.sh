@@ -30,6 +30,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-assets
+  - octopress-minify-html
 exclude:
   - Gemfile
   - Gemfile.lock
