@@ -7,14 +7,16 @@ layout: default
     <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
   </header>
 
-  <div class="post-content">
-    <ul class="posts tags-list">
-      {% for post in page.posts %}
-      <li class="tags-list__item">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  <ul class="post-list">
+    {% for post in page.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
       </li>
-      {% endfor %}
-    </ul>
-  </div>
+    {% endfor %}
+  </ul>
 
 </article>
