@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "You can run Android on your Mac/PC"
+tags: [android]
 date:   2016-01-13 10:36:00 +0100
 ---
 

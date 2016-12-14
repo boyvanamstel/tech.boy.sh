@@ -31,6 +31,8 @@ gems:
   - jekyll-feed
   - jekyll-assets
   - octopress-minify-html
+  - jekyll-sitemap
+  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -54,3 +56,10 @@ assets:
     - _assets/js
   features:
     automatic_img_size: false
+
+# jekyll-archives
+jekyll-archives:
+  enabled:
+    - tags
+  permalinks:
+    tag: '/tags/:name/'

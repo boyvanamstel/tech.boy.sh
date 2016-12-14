@@ -28,3 +28,5 @@ end
 gem "jekyll-assets"
 gem "mini_magick"
 gem "autoprefixer-rails"
+gem "jekyll-sitemap"
+gem "jekyll-archives"

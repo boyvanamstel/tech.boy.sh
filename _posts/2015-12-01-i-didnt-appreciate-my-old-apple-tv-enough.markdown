@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I didn't appreciate my old Apple TV enough"
+tags: [apple, gadgets]
 date:   2015-12-01 16:21:00 +0100
 ---
 

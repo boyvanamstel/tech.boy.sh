@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "To move your Time Machine backup to another disk, use Disk Utility"
+tags: [backups, osx]
 date:   2016-08-09 14:15:00 +0100
 ---
 Time Machine is a great way to store incremental backups of your Mac. It's pretty efficient too, using only a relatively small amount of disk space. Still, there are reasons to switch your Time Machine backup to another drive. Maybe your disk is showing signs of failure, or it's simply running out of space. Moving your backup is not as easy as it seems though.

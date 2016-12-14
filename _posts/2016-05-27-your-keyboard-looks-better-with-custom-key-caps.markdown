@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Your keyboard looks better with custom key caps"
+tags: [gadgets, keyboards, mods]
 date:   2016-05-27 11:04:00 +0100
 ---
 

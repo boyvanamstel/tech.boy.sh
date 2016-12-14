@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to manage eye strain"
+tags: [quora]
 date:   2016-05-18 11:36:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Modifying your PAL MegaDrive is the best"
+tags: [games, retro, mods, sega]
 date:   2016-01-31 14:11:00 +0100
 ---
 

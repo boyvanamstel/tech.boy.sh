@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Matt3o's Whitefox keyboard was worth the wait"
+tags: [gadgets, keyboards, reviews]
 date:   2016-06-28 11:10:00 +0100
 ---
 

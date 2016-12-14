@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I can attach a musical keyboard to my iPad"
+tags: [gadgets, music]
 date:   2015-11-27 13:10:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Matteo Spinelli designs super pretty keyboards"
+tags: [gadgets, keyboards]
 date:   2015-12-11 18:47:00 +0100
 ---
 

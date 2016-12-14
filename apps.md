@@ -2,6 +2,7 @@
 layout: page
 title: My Apps
 permalink: /apps/
+menu: true
 ---
 
 ---

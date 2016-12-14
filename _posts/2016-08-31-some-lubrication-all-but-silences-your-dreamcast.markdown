@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Some lubrication all but silences your Dreamcast"
+tags: [games, mods, retro]
 date:   2016-08-31 16:52:00 +0100
 ---
 I recently purchased a Japanese Dreamcast, after getting a Japanese Sega Saturn before. They're pretty great. The main benefit being cheap hardware and relatively inexpensive games. Here's a pretty good example, check out these two Saturn Bomberman games:

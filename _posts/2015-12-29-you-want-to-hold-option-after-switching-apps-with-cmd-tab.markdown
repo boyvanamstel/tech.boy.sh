@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "You want to hold Option after switching apps with CMD + Tab"
+tags: [osx]
 date:   2015-12-29 15:56:00 +0100
 ---
 

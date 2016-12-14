@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "You can bulk-edit which app opens a file on OS X"
+tags: [osx]
 date:   2015-11-01 13:35:00 +0100
 ---
 

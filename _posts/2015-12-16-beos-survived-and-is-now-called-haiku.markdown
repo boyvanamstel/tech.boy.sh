@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "BeOS survived and is now called Haiku"
+tags: [retro]
 date:   2015-12-16 23:24:00 +0100
 ---
 

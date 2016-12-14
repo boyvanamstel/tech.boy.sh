@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "It's its"
+tags: [games]
 date:   2015-11-30 13:05:00 +0100
 ---
 

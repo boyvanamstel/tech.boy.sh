@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "You might want to track where someone downloaded your Mac app"
+tags: [analytics, apps, osx, programming, indie, xcode]
 date:   2016-05-03 11:37:00 +0100
 ---
 
