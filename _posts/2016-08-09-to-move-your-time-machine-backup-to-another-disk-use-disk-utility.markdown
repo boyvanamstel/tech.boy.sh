@@ -35,7 +35,7 @@ Funny story: I actually spent several hours copying files using `cp -r` instead 
 
 ## Disk Utility
 
-This comes with a few downsides, but it actually gives you a exact copy of the original data.
+This comes with a few downsides, but it actually gives you an exact copy of the original data.
 
 ### Downsides
 
