@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 menu: true
+menu_title: About
 ---
 
 Most of my days are spent working on apps for the company that I founded in 2011, called [Danger Cove](http://www.dangercove.com). Porthole for example, is a Mac app that allows you to stream audio to multiple AirPlay speakers.
