@@ -43,16 +43,16 @@
   }
 
   @include media-query($on-palm) {
-    position: absolute;
+    float: none;
+    position: relative;
     top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+    text-align: left;
 
     .menu-icon {
+      border: 1px solid $grey-color-light;
+      border-radius: 5px;
       display: block;
+      visibility: hidden;
       float: right;
       width: 36px;
       height: 26px;
@@ -63,26 +63,22 @@
       > svg path {
         fill: $grey-color-dark;
       }
+
     }
 
     .trigger {
       clear: both;
-      display: none;
+      padding: 5px 0 20px;
     }
 
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
 
     .page-link {
       display: block;
-      padding: 5px 10px;
+      padding: 5px 0;
 
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
     }
   }
 }
