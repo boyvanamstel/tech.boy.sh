@@ -12,7 +12,7 @@ I’m particularly interested in working with new technology and making it acces
 
 Some of my code ends up on [my GitHub page](https://www.github.com/boyvanamstel) or the one I keep at [Danger Cove](https://www.github.com/dangercove).
 
-I also like to reflect on how people interact with technical innovations, by creating websites like [Please Rob Me](http://www.pleaserobme.com) and [ePenis](http://www.epenis.nl).
+I also like to reflect on how people interact with technical innovations, by creating websites like [Please Rob Me](http://news.bbc.co.uk/2/hi/technology/8521598.stm) and [ePenis](http://www.epenis.nl).
 
 The best way to contact me is through [Twitter](https://www.twitter.com/boyvanamstel).
 
