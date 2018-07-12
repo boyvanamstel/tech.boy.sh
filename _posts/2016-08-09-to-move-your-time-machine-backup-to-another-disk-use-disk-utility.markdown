@@ -4,6 +4,13 @@ title:  "To move your Time Machine backup to another disk, use Disk Utility"
 tags: [backups, osx]
 date:   2016-08-09 14:15:00 +0100
 ---
+
+### Update July 12th 2018
+
+*A reader let me know that since macOS 10.13.4 (at least) Finder's copy behavior has changed and will respect hard links. This means that the backup will no longer dramatically increase in size. It will still take hours "Preparing to Copy", though.*
+
+*I've not tested this, and until I do my recommended way of copying a Time Machine backup is still using Disk Utility. If you're feeling adventurous however (and have a bunch of time to spare), you might want to give Finder a go first.*
+
 Time Machine is a great way to store incremental backups of your Mac. It's pretty efficient too, using only a relatively small amount of disk space. Still, there are reasons to switch your Time Machine backup to another drive. Maybe your disk is showing signs of failure, or it's simply running out of space. Moving your backup is not as easy as it seems though.
 
 I have several backup disks and was using them rather inefficiently, that's why I wanted to move my Time Machine partition to a new disk. After trying several ways to make this happen, I've come to the conclusion that using Disk Utility is the only reliable method. But first, let's go over **every method I've tried that didn't work**:
