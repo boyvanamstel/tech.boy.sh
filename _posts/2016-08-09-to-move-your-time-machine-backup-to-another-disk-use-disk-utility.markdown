@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "To move your Time Machine backup to another disk, use Disk Utility"
-tags: [backups, osx]
-date: 2016-08-09 14:15:00 +0100
+title: To move your Time Machine backup to another disk, use Disk Utility
+tags:
+- backups
+- osx
+date: '2016-08-09 14:15:00'
 ---
 
 ### Update July 12th 2018

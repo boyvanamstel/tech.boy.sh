@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "You want to hold Option after switching apps with CMD + Tab"
-tags: [osx]
-date: 2015-12-29 15:56:00 +0100
+title: You want to hold Option after switching apps with CMD + Tab
+tags:
+- osx
+date: '2015-12-29 15:56:00'
 ---
 
 I've set my Dock to hide automatically, which means I rely on the App Switcher to (shocker, I know) switch between apps. A lot.

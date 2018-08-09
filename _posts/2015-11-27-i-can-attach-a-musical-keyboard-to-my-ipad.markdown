@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "I can attach a musical keyboard to my iPad"
-tags: [gadgets, music]
-date: 2015-11-27 13:10:00 +0100
+title: I can attach a musical keyboard to my iPad
+tags:
+- gadgets
+- music
+date: '2015-11-27 13:10:00'
 ---
 
 After seeing [this video](https://www.youtube.com/watch?v=bry_62fVB1E) by AWAN, purchasing a [Keith McMillen QuNexus](http://www.keithmcmillen.com/products/qunexus/) seemed like the perfect idea.

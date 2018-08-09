@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Tingbot made their Kickstarter goal"
-tags: [gadgets]
-date: 2015-11-29 13:20:00 +0100
+title: Tingbot made their Kickstarter goal
+tags:
+- gadgets
+date: '2015-11-29 13:20:00'
 ---
 
 Another Kickstarter impulse purchase is coming my way (hopefully)!

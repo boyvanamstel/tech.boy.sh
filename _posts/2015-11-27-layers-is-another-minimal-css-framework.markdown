@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Layers is another minimal CSS framework"
-tags: [webdesign]
-date: 2015-11-27 13:07:00 +0100
+title: Layers is another minimal CSS framework
+tags:
+- webdesign
+date: '2015-11-27 13:07:00'
 ---
 
 I'll be using [Layers](http://eiskis.net/layers/) to create the website for [Hedge](http://www.syncfactory.nl).

@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Modifying your SNES for 60Hz is awesome (too)"
-tags: [games, retro, mods, nintendo]
-date: 2016-02-16 11:46:00 +0100
+title: Modifying your SNES for 60Hz is awesome (too)
+tags:
+- games
+- retro
+- mods
+- nintendo
+date: '2016-02-16 11:46:00'
 ---
 
 After [soldering wires into my SEGA MegaDrive to be able to switch between PAL and NTSC](/knows/modifying-your-pal-megadrive-is-the-best), I did the same to my SNES. I never knew playing Mortal Kombat II and Super Street Fighter II Turbo could be this fluid.

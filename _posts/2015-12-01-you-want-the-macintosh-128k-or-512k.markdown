@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "You want the Macintosh 128k (or 512k)"
-tags: [apple, gadgets]
+tags:
+- apple
+- gadgets
 date: 2015-12-01 14:26:00 +0100
 ---
 

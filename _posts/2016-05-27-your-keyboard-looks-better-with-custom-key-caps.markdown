@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Your keyboard looks better with custom key caps"
-tags: [gadgets, keyboards, mods]
-date: 2016-05-27 11:04:00 +0100
+title: Your keyboard looks better with custom key caps
+tags:
+- gadgets
+- keyboards
+- mods
+date: '2016-05-27 11:04:00'
 ---
 
 Most [mechanical keyboards](http://www.boy.sh/knows/matteo-spinelli-designs-super-pretty-keyboards) can be customized in various ways. The easiest alteration you can do is probably replacing the key caps with something that's more your taste.

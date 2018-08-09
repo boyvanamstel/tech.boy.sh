@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Modifying your PAL MegaDrive is the best"
-tags: [games, retro, mods, sega]
-date: 2016-01-31 14:11:00 +0100
+title: Modifying your PAL MegaDrive is the best
+tags:
+- games
+- retro
+- mods
+- sega
+date: '2016-01-31 14:11:00'
 ---
 
 If you live in Europe and played video games during the 90's, prepare to be shocked: you've been playing inferior versions of each and every game you played. 😱
