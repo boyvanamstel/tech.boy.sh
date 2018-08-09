@@ -57,6 +57,21 @@ assets:
   features:
     automatic_img_size: false
 
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: 'post'
+      tags: []
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: 'page'
+      menu: true
+      menu_title: ''
+      
 # jekyll-archives
 jekyll-archives:
   enabled:

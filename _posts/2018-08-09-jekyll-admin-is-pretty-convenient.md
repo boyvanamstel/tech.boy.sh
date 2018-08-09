@@ -44,18 +44,31 @@ Small improvements, but I welcome anything that lowers the threshold to start wr
 
 ## Downsides
 
-I think my simple site generates a little slower with the plugin installed. It takes about 22 seconds on my quick 2016 MacBook Pro, that's a pretty long wait. 
+Vim shortcuts are not available, obviously. Maybe I'll end up just using the UI to create posts, then do the writing in a terminal window. 
 
-![Generating a page takes about 22 seconds](/assets/blog/jekyll-admin-generating.jpg)
+~~Another thing – that honestly feels like a bug – is that the metatags have to be entered from scratch, for each post. It's worth the effort to go in and see if I can add my prefered behavior to the project.~~
 
-Vim shortcuts are not available. Maybe I'll end up just using the UI to create posts, then do the writing in a terminal window. 
+_Update: The admin interface automatically picks up on the front matter defaults. Simply adding the following few lines to the `_config.yml` file will prefill the corresponding fields in the content management system._
 
-Another thing – that honestly feels like a bug – is that the metatags have to be entered from scratch, for each post. It's worth the effort to go in and see if I can add my prefered behavior to the project.
+```yaml
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: 'post'
+      tags: []
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: 'page'
+      menu: true
+      menu_title: ''
+```
 
 ![jekyll-admin does not automatically set the proper metatags](/assets/blog/jekyll-admin-metatags.jpg)
 
 ## Conclusion
 
-This is hardly a thorough review, obviously; all I did is write this signle post. The added convenience is undeniable, though.
-
-If I manage to automatically apply the proper metatags after creating a new entry, I'm positive jekyll-admin will help me to post more often. *Famous last words.*
+This is hardly a thorough review; all I did is write this signle post. The added convenience is undeniable, though. I'm positive jekyll-admin will help me to post more often. *Famous last words.*
