@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "You might need to disable layer backing to work with NSVisualEffectViews in IB"
+title: "You might need to disable layer backing to work with NSVisualEffectViews in IB"
 tags: [xcode, programming]
-date:   2015-11-20 13:27:00 +0100
+date: 2015-11-20 13:27:00 +0100
 ---
 
 Found yourself unable to move around (or even freakin' select) elements on a layer backed `NSVisualEffectView`?

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "You can run Android on your Mac/PC"
+title: "You can run Android on your Mac/PC"
 tags: [android]
-date:   2016-01-13 10:36:00 +0100
+date: 2016-01-13 10:36:00 +0100
 ---
 
 [Remix OS](http://www.jide.com/en/remixos) is Jide's effort to bring a 'PC experience' to Android and it just released a version you can actually install.

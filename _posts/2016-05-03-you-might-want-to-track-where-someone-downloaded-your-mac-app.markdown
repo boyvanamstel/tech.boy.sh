@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "You might want to track where someone downloaded your Mac app"
+title: "You might want to track where someone downloaded your Mac app"
 tags: [analytics, apps, osx, programming, indie, xcode]
-date:   2016-05-03 11:37:00 +0100
+date: 2016-05-03 11:37:00 +0100
 ---
 
 Figuring out what works and especially what doesn't is a big part of building products. Whether you're trying to figure out which feature to build or where to spend money on marketing, analytics can help you make those decisions.

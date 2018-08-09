@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Matteo Spinelli designs super pretty keyboards"
+title: "Matteo Spinelli designs super pretty keyboards"
 tags: [gadgets, keyboards]
-date:   2015-12-11 18:47:00 +0100
+date: 2015-12-11 18:47:00 +0100
 ---
 
 After looking at  [Matt3o](https://twitter.com/cubiq)'s [Massdrop campaign](https://www.massdrop.com/buy/the-whitefox-keyboard) for his WhiteFox Keyboard for over an hour, I pulled the trigger and ordered one.

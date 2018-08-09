@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My Radon HD 7870 runs Fallout 4 on Ultra"
+title: "My Radon HD 7870 runs Fallout 4 on Ultra"
 tags: [games]
-date:   2015-11-29 12:44:00 +0100
+date: 2015-11-29 12:44:00 +0100
 ---
 
 When Bethesda announced the minimum and recommended system requirements for Fallout 4 they looked like this:

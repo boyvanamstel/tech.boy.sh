@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Matt3o's Whitefox keyboard was worth the wait"
+title: "Matt3o's Whitefox keyboard was worth the wait"
 tags: [gadgets, keyboards, reviews]
-date:   2016-06-28 11:10:00 +0100
+date: 2016-06-28 11:10:00 +0100
 ---
 
 They say you shouldn't skimp on a great mattress, because you spend so much time with it. As someone who writes (code) for a living, the same could be said about a keyboard.

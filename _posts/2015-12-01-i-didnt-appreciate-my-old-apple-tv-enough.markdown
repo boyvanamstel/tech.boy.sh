@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I didn't appreciate my old Apple TV enough"
+title: "I didn't appreciate my old Apple TV enough"
 tags: [apple, gadgets]
-date:   2015-12-01 16:21:00 +0100
+date: 2015-12-01 16:21:00 +0100
 ---
 
 The new Apple TV got me pretty excited when it was announced. My Apple TV 3 wasn't being used very much, other than when I needed to [test something AirPlay related](http://www.dangercove.com/porthole).

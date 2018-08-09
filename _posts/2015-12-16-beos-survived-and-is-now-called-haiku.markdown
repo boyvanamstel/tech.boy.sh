@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BeOS survived and is now called Haiku"
+title: "BeOS survived and is now called Haiku"
 tags: [retro]
-date:   2015-12-16 23:24:00 +0100
+date: 2015-12-16 23:24:00 +0100
 ---
 
 In a time where I created boot floppy disks and compiled kernels to get my Sound Blaster 16 to work, BeOS was a new operating system.

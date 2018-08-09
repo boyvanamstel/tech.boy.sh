@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "You want the Macintosh 128k (or 512k)"
+title: "You want the Macintosh 128k (or 512k)"
 tags: [apple, gadgets]
-date:   2015-12-01 14:26:00 +0100
+date: 2015-12-01 14:26:00 +0100
 ---
 
 After watching the new [Steve Jobs movie](http://www.imdb.com/title/tt2080374/) and a few documentaries on the guy, I felt the urge to maybe own an original Macintosh. 🙈

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "You can manually manage your iTunes library"
+title: "You can manually manage your iTunes library"
 tags: [apple, ios, osx, gadgets]
-date:   2016-06-16 15:28:00 +0100
+date: 2016-06-16 15:28:00 +0100
 ---
 
 Syncing across multiple devices is difficult, so Apple conveniently ruled out the option of syncing your iTunes library  on your phone or tablet with multiple Macs.
