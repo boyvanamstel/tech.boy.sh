@@ -6,15 +6,15 @@ menu: true
 menu_title: Apps
 ---
 
-These are a few of the apps that I work on. Learn more at [dangercove.com](https://www.dangercove.com)
+These are a few of the apps that I work on. Learn more over at [dangercove.com](https://www.dangercove.com)
 
 <ul class="apps">
 <li class="apps-entry">
   <h2 class="apps-entry__title">Denied saves your ears from Nickelback</h2>
-  <a class="apps-entry__link" href="https://www.getdenied.com"><img class="apps-entry__link-image" src="/assets/blog/Denied.png" alt="Denied logo"></a>
+  <a class="apps-entry__link" href="https://www.denied.app"><img class="apps-entry__link-image" src="/assets/blog/Denied.png" alt="Denied logo"></a>
   <div class="apps-entry__description">
     <p>Denied for Mac sees what you're playing in Spotify and iTunes and automatically skips songs that you dislike.</p>
-    <p>Visit <a href="https://www.getdenied.com">getdenied.com</a></p>
+    <p>Visit <a href="https://www.denied.app">denied.app</a></p>
   </div>
 </li>
 

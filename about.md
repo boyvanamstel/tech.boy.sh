@@ -6,9 +6,9 @@ menu: true
 menu_title: About
 ---
 
-Most of my days are spent writing Swift, Objective-C and Ruby code. Primarily for the company that I founded in 2011, called [Danger Cove](http://www.dangercove.com). I make macOS apps like [Denied](https://www.getdenied.com), which protects your ears from bands like Nickelback. 
+Most of my days are spent writing Swift, Objective-C and Ruby code. Primarily for the company that I founded in 2011, called [Danger Cove](http://www.dangercove.com). I make macOS apps like [Denied](https://www.denied.app), which protects your ears from bands like Nickelback. 
 
-Previously, I co-founded [Hedge](https://www.hedge.video) and worked on the iOS app at [Blendle](https://www.blendle.com), often described as the Spotify of journalism.
+Previously, I co-founded [Hedge](https://hedge.video) and worked on the iOS app at [Blendle](https://blendle.com), often described as the Spotify of journalism.
 
 I’m particularly interested in working with new technology and making it accessible to as many people as I can. Tackling technical, UI and UX problems as I go.
 
