@@ -29,6 +29,10 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
 end
 
-# Other
-gem "mini_magick"
-gem "autoprefixer-rails"
+group :development do
+  gem "mini_magick"
+  gem "autoprefixer-rails"
+  gem "rake"
+  gem "dotenv"
+  gem "rsync"
+end
