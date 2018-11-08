@@ -37,6 +37,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - deploy.sh
+include:
+  - _redirects
 
 # jekyll-assets
 assets:
