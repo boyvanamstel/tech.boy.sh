@@ -74,10 +74,3 @@ defaults:
       layout: 'page'
       menu: true
       menu_title: ''
-      
-# jekyll-archives
-jekyll-archives:
-  enabled:
-    - tags
-  permalinks:
-    tag: '/tags/:name/'
