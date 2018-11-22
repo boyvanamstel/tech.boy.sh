@@ -1,12 +1,12 @@
-/20*                            https://blog.boyvanamstel.nl/20:splat
+/20*                              https://blog.boyvanamstel.nl/20:splat
 
-https://xn--6s8h.to             https://www.boy.sh
-https://www.xn--6s8h.to         https://www.boy.sh
-https://boyvanamstel.nl         https://www.boy.sh
-https://www.boyvanamstel.nl     https://www.boy.sh
-https://boyvanamstel.com        https://www.boy.sh
-https://www.boyvanamstel.com    https://www.boy.sh
+https://xn--6s8h.to/*             https://www.boy.sh/:splat               301!
+https://www.xn--6s8h.to/*         https://www.boy.sh/:splat               301!
+https://boyvanamstel.nl/*         https://www.boy.sh/:splat               301!
+https://www.boyvanamstel.nl/*     https://www.boy.sh/:slat                301!
+https://boyvanamstel.com/*        https://www.boy.sh/:splat               301!
+https://www.boyvanamstel.com/*    https://www.boy.sh/:splat               301!
 
-https://dekijkersthuis.tv       https://www.twitch.tv/dekijkersthuis/
-https://www.dekijkersthuis.tv   https://www.twitch.tv/dekijkersthuis/
+https://dekijkersthuis.tv/*       https://www.twitch.tv/dekijkersthuis    301!
+https://www.dekijkersthuis.tv/*   https://www.twitch.tv/dekijkersthuis    301!
    
