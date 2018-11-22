@@ -16,7 +16,7 @@
 title: Things I Know
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  About the things I learn as I make Mac apps, play (old) video games and listen to synthy music.
+  Lean about tech, games and synthy music.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /knows/:title
 url: "https://tech.boy.sh" # the base hostname & protocol for your site, e.g. http://example.com
