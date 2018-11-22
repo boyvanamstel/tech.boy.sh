@@ -33,7 +33,6 @@ plugins:
   - jekyll-assets
   - octopress-minify-html
   - jekyll-sitemap
-  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
