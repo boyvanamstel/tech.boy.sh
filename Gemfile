@@ -32,7 +32,4 @@ end
 group :development do
   gem "mini_magick"
   gem "autoprefixer-rails"
-  gem "rake"
-  gem "dotenv"
-  gem "rsync"
 end
