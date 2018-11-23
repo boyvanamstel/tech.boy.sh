@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/minima
-  revision: 054d041b7a3eb12b88cc0f273c3b9075afccb467
+  revision: 554361c89da8c03885da3a80106dc788b7412399
   branch: master
   specs:
     minima (2.5.0)
@@ -63,8 +63,6 @@ GEM
       jekyll (~> 3.3)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
-    jekyll-archives (2.1.1)
-      jekyll (>= 2.4)
     jekyll-assets (3.0.12)
       activesupport (~> 5.0)
       execjs (~> 2.7)
@@ -163,7 +161,6 @@ DEPENDENCIES
   autoprefixer-rails
   jekyll
   jekyll-admin
-  jekyll-archives
   jekyll-assets
   jekyll-feed
   jekyll-seo-tag
