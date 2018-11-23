@@ -1,9 +1,6 @@
 /20*                              https://blog.boyvanamstel.nl/20:splat
-/knows/*                          https://tech.boy.sh/knows/:splat
-https://www.boy.sh/feed.xml       https://tech.boy.sh/feed.xml
-
-#/*                                https://shorts.boy.sh/:splat                  301!
-https://www.boy.sh/*              https://tech.boy.sh/:splat                    301!
+https://www.boy.sh/knows/*        https://tech.boy.sh/knows/:splat              301!
+https://www.boy.sh/feed.xml*      https://tech.boy.sh/feed.xml                  301!
 
 https://xn--6s8h.to/*             https://www.boy.sh/:splat                     301!
 https://www.xn--6s8h.to/*         https://www.boy.sh/:splat                     301!
@@ -14,3 +11,6 @@ https://www.boyvanamstel.com/*    https://www.boy.sh/:splat                     
 
 https://dekijkersthuis.tv/*       https://www.twitch.tv/dekijkersthuis          301!
 https://www.dekijkersthuis.tv/*   https://www.twitch.tv/dekijkersthuis          301!
+
+#/*                                https://shorts.boy.sh/:splat                  301!
+https://www.boy.sh/*              https://shorts.boy.sh/:splat                  301!
