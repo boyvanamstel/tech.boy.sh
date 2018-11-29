@@ -40,6 +40,8 @@ Could the power supply I'm using be at fault here as well? Well, I think it can.
 
 The one I'm using now outputs 1 ampere, which is just shy of the required 1.3 ampere. From what I'm seeing online [this could result in a buzzing noise while playing](https://www.youtube.com/watch?v=vOUA8dESHsE).
 
-Getting a replacement [9V 1.3A 'center negative' adapter with a 5.5mm/2.1mm barrel](http://www.sega-16.com/forum/showthread.php?24832-Genesis-model-1-32-X-Sega-CD-model-1-Correct-power-supplies-and-polarities&p=580173&viewfull=1#post580173) isn't as easy as getting a 12V 5A brick though, if you discard the modular variety. After some browsing around I discovered that many guitar effect pedals use the same type power supply. The [Rockpower 50 NT](https://www.bax-shop.nl/gitaareffect-voeding-adapter/rockpower-50-nt-eu-combo-pack-9v-adapter) seems to fit the bill perfectly.
+~~Getting a replacement [9V 1.3A 'center negative' adapter with a 5.5mm/2.1mm barrel](http://www.sega-16.com/forum/showthread.php?24832-Genesis-model-1-32-X-Sega-CD-model-1-Correct-power-supplies-and-polarities&p=580173&viewfull=1#post580173) isn't as easy as getting a 12V 5A brick though, if you discard the modular variety. After some browsing around I discovered that many guitar effect pedals use the same type power supply. The [Rockpower 50 NT](https://www.bax-shop.nl/gitaareffect-voeding-adapter/rockpower-50-nt-eu-combo-pack-9v-adapter) seems to fit the bill perfectly.~~
 
-I'll let you if it resolves the buzzing when it arrives tomorrow.
+*I forgot to check Retro Game Supply. They [sell a very nice Mega Drive/Genesis power supply](https://en.retrogamesupply.com/collections/sega/products/power-supply-for-sega-megadrive-genesis-1) for even less than the one I found earlier.*
+
+I'll let you know if it resolves the buzzing when it arrives.
