@@ -28,7 +28,7 @@ It wasn't until I read on a forum that the power supply could have something to 
 
 The stories are true then: you **need** good quality power supply, or you won't get the most out of your PicoPSU.
 
-I got two ['LEICKE Power Supply Charger 60W 12V 5A 5.5 * 2.5 mm'](http://www.leicke.eu/en/products/NT03012) and they're perfect. You can [get the LEICKE power supplies here](https://partner.bol.com/click/click?p=1&t=url&s=58046&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fleicke-voeding-60w-12v-5a-5-5-2-5mm-voor-lcd-tft-scherm-led-strips-nas-ext-vaste-schijven-voor-pico-psu-tot-60w-hoog-rendement-stand-by-0-7w%2F9200000095019486&name=Leicke%2060W%2012V%205A) (affiliate link). 
+I got two ['LEICKE Power Supply Charger 60W 12V 5A 5.5 * 2.5 mm'](http://www.leicke.eu/en/products/NT03012) and they're perfect. You can [get the LEICKE power supplies here](https://www.bol.com/nl/p/leicke-voeding-60w-12v-5a-5-5-2-5mm-voor-lcd-tft-scherm-led-strips-nas-ext-vaste-schijven-voor-pico-psu-tot-60w-hoog-rendement-stand-by-0-7w/9200000095019486/). 
 
 ![Leicke 60W 12V 5A product photo](/assets/blog/leicke-12v-60w.jpg)
 
