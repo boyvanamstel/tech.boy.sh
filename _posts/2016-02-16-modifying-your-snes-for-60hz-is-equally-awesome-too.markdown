@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modifying your SNES for 60Hz is awesome (too)
+title: Modifying your SNES for 60Hz is awesome too
 tags:
 - games
 - retro
