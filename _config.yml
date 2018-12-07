@@ -33,10 +33,6 @@ plugins:
   - jekyll-assets
   - octopress-minify-html
   - jekyll-sitemap
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - deploy.sh
 include:
   - _redirects
 
@@ -58,18 +54,3 @@ assets:
     - _assets/js
   features:
     automatic_img_size: false
-
-defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: 'post'
-      tags: []
-  - scope:
-      path: ''
-      type: pages
-    values:
-      layout: 'page'
-      menu: true
-      menu_title: ''
