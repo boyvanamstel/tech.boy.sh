@@ -1,6 +1,6 @@
-# boy.sh
+# tech.boy.sh
 
-This is [my personal homepage](https://www.boy.sh). It uses [Jekyll](https://jekyllrb.com/) with the default theme.
+This is [where I write about tech stuff](https://tech.boy.sh). It uses [Jekyll](https://jekyllrb.com/) with the default theme.
 
 I try to keep this site straightforward and easy to maintain.
 
