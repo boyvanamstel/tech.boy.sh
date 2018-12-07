@@ -22,7 +22,6 @@ gem "minima", git: "https://github.com/jekyll/minima", branch: "master"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "octopress-minify-html"
-  gem "jekyll-admin"
   gem "jekyll-assets"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
