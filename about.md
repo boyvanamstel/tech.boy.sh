@@ -18,5 +18,5 @@ I also like to reflect on how people interact with technical innovations, by cre
 
 The best way to contact me is through [Twitter](https://www.twitter.com/boyvanamstel).
 
-![Picture of me chilling on a dune](/assets/blog/chillin-on-a-dune.jpg)
+![Picture of me chilling on a dune](/assets/img/chillin-on-a-dune.jpg)
 _– This is me, chilling on a dune_
