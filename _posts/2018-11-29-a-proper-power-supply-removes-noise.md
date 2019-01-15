@@ -44,4 +44,5 @@ The one I'm using now outputs 1 ampere, which is just shy of the required 1.3 am
 
 *I forgot to check Retro Game Supply. They [sell a very nice Mega Drive/Genesis power supply](https://en.retrogamesupply.com/collections/sega/products/power-supply-for-sega-megadrive-genesis-1) for even less than the one I found earlier.*
 
-I'll let you know if it resolves the buzzing when it arrives.
+~~I'll let you know if it resolves the buzzing when it arrives.~~
+The buzzing has disappeared with the new power adapter. 🎉
